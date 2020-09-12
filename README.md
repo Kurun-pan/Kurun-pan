@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+## Contacts
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Kurun-pan)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@kurun_pan)](https://twitter.com/@kurun_pan)
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat-square&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/kurunpan)
+
+## Stats
+
+<a href="https://github.com/Kurun-pan">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kurun-pan&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/Kurun-pan">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurun-pan&count_private=true&layout=compact" />
+</a>
+
+
+
 <!--
 **Kurun-pan/Kurun-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

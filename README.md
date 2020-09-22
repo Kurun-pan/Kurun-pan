@@ -4,7 +4,6 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Kurun-pan)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@kurun_pan)](https://twitter.com/@kurun_pan)
-[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-0?style=flat-square&logo=speaker-deck&color=009287&logoColor=white)](https://speakerdeck.com/kurunpan)
 
 ## Stats
 
